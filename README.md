@@ -10,3 +10,5 @@ Personal project involving historical Billboard Hot 100 data.  Phase one - norma
 ![Screenshot 2023-05-24 110759](https://github.com/dogmatica/hot100-p1-normalization/assets/60594771/01c0512f-8e75-4a41-a23e-cc356329b5ff)
 
 ![Screenshot 2023-05-24 110848](https://github.com/dogmatica/hot100-p1-normalization/assets/60594771/7b531f82-7a86-44a3-a690-b3390e83a8c8)
+
+Original hot 100 dataset:  https://github.com/HipsterVizNinja/random-data/tree/main/Music/hot-100
